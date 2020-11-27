@@ -1,4 +1,4 @@
-package cn.cgm.flutter_nim.Helper;
+package com.flutter_nim.Helper;
 
 import android.text.TextUtils;
 

@@ -1,4 +1,4 @@
-package cn.cgm.flutter_nim.Helper;
+package com.flutter_nim.Helper;
 
 import com.netease.nimlib.sdk.msg.attachment.MsgAttachment;
 import com.netease.nimlib.sdk.msg.attachment.MsgAttachmentParser;

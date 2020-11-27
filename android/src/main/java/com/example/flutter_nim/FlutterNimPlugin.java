@@ -2,11 +2,11 @@ package com.example.flutter_nim;
 
 import androidx.annotation.NonNull;
 
-import cn.cgm.flutter_nim.Helper.FlutterNIMHelper;
-import cn.cgm.flutter_nim.Helper.FlutterNIMPreferences;
-import cn.cgm.flutter_nim.Helper.NIMKickoutInteractor;
-import cn.cgm.flutter_nim.Helper.NIMRecentSessionsInteractor;
-import cn.cgm.flutter_nim.Helper.NIMSessionInteractor;
+import com.flutter_nim.Helper.FlutterNIMHelper;
+import com.flutter_nim.Helper.FlutterNIMPreferences;
+import com.flutter_nim.Helper.NIMKickoutInteractor;
+import com.flutter_nim.Helper.NIMRecentSessionsInteractor;
+import com.flutter_nim.Helper.NIMSessionInteractor;
 import io.flutter.plugin.common.EventChannel;
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
