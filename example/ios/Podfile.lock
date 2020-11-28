@@ -70,7 +70,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   audioplayers: 84f968cea3f2deab00ec4f8ff53358b3c0b3992c
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  flutter_nim: aee1ca3ef179e78c9fff4ea3f10022c99a21d393
+  flutter_nim: 93b354fe06cce626214092d814b855bca52760d6
   fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
   image_picker: e3eacd46b94694dde7cf2705955cece853aa1a8f

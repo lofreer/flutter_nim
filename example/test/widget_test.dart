@@ -6,6 +6,7 @@
 // tree, read text, and verify that the values of widget properties are correct.
 
 import 'package:flutter/material.dart';
+import 'package:flutter_nim_example/ui/page_recent_sessions.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:flutter_nim_example/main.dart';

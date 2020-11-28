@@ -70,7 +70,8 @@ class _LoginPageState extends State<LoginPage> {
     print(_accountEditingController.text);
     print(_passwordEditingController.text);
     final imAccount = _accountEditingController.text;
-    final imToken = ZKCommonUtils.generateMd5(_passwordEditingController.text);
+    final imToken = _passwordEditingController.text;
+    // final imToken = ZKCommonUtils.generateMd5(_passwordEditingController.text);
 
     bool isLoginSuccess = await FlutterNIM().login(imAccount, imToken);
 
